@@ -1,0 +1,3 @@
+RwandaRide Bus Ticket Booking System
+Student: SHEMA RIBERA DiDIER
+Frontend simulation only.
